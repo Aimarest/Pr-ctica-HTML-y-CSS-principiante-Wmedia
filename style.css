@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(10,10,30);
+    font-family: sans-serif;
+  }
+  .login {
+    margin-top:07%;
+    text-align: right;
+    margin-right:10%;
+    color:white;
+  }
+  .login a {
+    text-decoration: none;
+    color:rgb(220,25,150);
+  }
+  .create {
+    display: block;
+    padding:10%;
+    text-align:center;
+    color: white;
+  }
+  
+  .input_group {
+    margin: 5px;
+    padding: 10px 0;
+    font-size:1rem;
+    text-align:left;
+    margin-bottom:10px;
+    height: auto;
+  }
+  .input_group label {
+    display: block;
+    margin-bottom:10px;
+  }
+  .input_group input {
+    background-color: rgb(10,10,30);
+    border-color:rgba(255,255,250,.1);
+    padding:1em;
+    border-radius:5px;
+    width: 100%;
+    color: white;
+  }
+  .boton_personalizado {
+    text-decoration: none;
+    background-color: rgb(220,25,150);
+    display: block;
+    margin-top:05%;
+    margin-bottom:3rem;
+    pading:30%;
+    text-align: center;
+    color: white;
+    padding: 2em 2em;
+    border-radius:10px;
+  }
+  .legal {
+    padding:1em 2em;
+    background-color:rgba(20,20,50,0.3);
+    color:grey;
+    margin-top:100px;
+  }
+  .enlace_legal {
+    text-decoration: none;
+    color:rgb(220,25,150);
+  }
